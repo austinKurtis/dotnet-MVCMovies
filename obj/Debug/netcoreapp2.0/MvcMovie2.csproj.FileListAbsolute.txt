@@ -1,0 +1,11 @@
+/Users/austinkurtis/Projects/MvcMovie2/MvcMovie2/bin/Debug/netcoreapp2.0/MvcMovie2.deps.json
+/Users/austinkurtis/Projects/MvcMovie2/MvcMovie2/bin/Debug/netcoreapp2.0/MvcMovie2.runtimeconfig.json
+/Users/austinkurtis/Projects/MvcMovie2/MvcMovie2/bin/Debug/netcoreapp2.0/MvcMovie2.runtimeconfig.dev.json
+/Users/austinkurtis/Projects/MvcMovie2/MvcMovie2/bin/Debug/netcoreapp2.0/MvcMovie2.dll
+/Users/austinkurtis/Projects/MvcMovie2/MvcMovie2/bin/Debug/netcoreapp2.0/MvcMovie2.pdb
+/Users/austinkurtis/Projects/MvcMovie2/MvcMovie2/obj/Debug/netcoreapp2.0/MvcMovie2.csprojResolveAssemblyReference.cache
+/Users/austinkurtis/Projects/MvcMovie2/MvcMovie2/obj/Debug/netcoreapp2.0/MvcMovie2.csproj.CoreCompileInputs.cache
+/Users/austinkurtis/Projects/MvcMovie2/MvcMovie2/obj/Debug/netcoreapp2.0/MvcMovie2.AssemblyInfoInputs.cache
+/Users/austinkurtis/Projects/MvcMovie2/MvcMovie2/obj/Debug/netcoreapp2.0/MvcMovie2.AssemblyInfo.cs
+/Users/austinkurtis/Projects/MvcMovie2/MvcMovie2/obj/Debug/netcoreapp2.0/MvcMovie2.dll
+/Users/austinkurtis/Projects/MvcMovie2/MvcMovie2/obj/Debug/netcoreapp2.0/MvcMovie2.pdb
